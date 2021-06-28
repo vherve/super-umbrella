@@ -2,4 +2,4 @@
 
 Really super!
 
-Test Vincet HERVE
+Test Vincent HERVE
